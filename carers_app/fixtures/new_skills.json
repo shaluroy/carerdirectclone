@@ -1,0 +1,718 @@
+{
+    "model": "carers_app.conditionexpertise",
+    "pk": 1,
+    "fields": {
+      "name": "Depression",
+      "is_active": "True", 
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 2,
+    "fields": {
+      "name": "Eating Disorder",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 3,
+    "fields": {
+      "name": "Stroke",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 4,
+    "fields": {
+      "name": "Visual Impairment",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 5,
+    "fields": {
+      "name": "Autism",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 6,
+    "fields": {
+      "name": "Diabetes",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 7,
+    "fields": {
+      "name": "ADHD",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 8,
+    "fields": {
+      "name": "Alzheimer",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 9,
+    "fields": {
+      "name": "Anxiety",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 10,
+    "fields": {
+      "name": "Aspergers",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 11,
+    "fields": {
+      "name": "Attachment Disorder",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 12,
+    "fields": {
+      "name": "Global Delay",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 13,
+    "fields": {
+      "name": "COPD",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 14,
+    "fields": {
+      "name": "Cancer",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 15,
+    "fields": {
+      "name": "Cerebral Palsy",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 16,
+    "fields": {
+      "name": "Deafness",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 17,
+    "fields": {
+      "name": "HIV",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 18,
+    "fields": {
+      "name": "Language Processing Difficulties",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 19,
+    "fields": {
+      "name": "Learning Disability",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 20,
+    "fields": {
+      "name": "Motor Neurone Disease",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 21,
+    "fields": {
+      "name": "Multiple sclerosis",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 22,
+    "fields": {
+      "name": "Orthopaedic Injuries",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 23,
+    "fields": {
+      "name": "PDD",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 24,
+    "fields": {
+      "name": "Parkinson's disease",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 25,
+    "fields": {
+      "name": "Physical Disability",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 26,
+    "fields": {
+      "name": "Schizophrenia",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 27,
+    "fields": {
+      "name": "Spinal Injury Care",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 28,
+    "fields": {
+      "name": "Terminal Illness",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 29,
+    "fields": {
+      "name": "Vascular Dementia",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 30,
+    "fields": {
+      "name": "Traumatic Brain Injury",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 31,
+    "fields": {
+      "name": "Frality",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.blog_category",
+    "pk": 1,
+    "fields": {
+      "name": "ELDERLY PARENTS",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.blog_category",
+    "pk": 2,
+    "fields": {
+      "name": "HEALTH",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 1,
+    "fields": {
+      "name": "Cleaning",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 2,
+    "fields": {
+      "name": "Administration",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 3,
+    "fields": {
+      "name": "Shopping",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 4,
+    "fields": {
+      "name": "Doing Laundry",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 5,
+    "fields": {
+      "name": "Dressing Undressing",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 6,
+    "fields": {
+      "name": "Toileting",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 7,
+    "fields": {
+      "name": "Medication Prompting",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 8,
+    "fields": {
+      "name": "Personal Grooming and Hygiene",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 9,
+    "fields": {
+      "name": "Wheelchair Assistance",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 10,
+    "fields": {
+      "name": "Cooking",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 11,
+    "fields": {
+      "name": "Driving License",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 12,
+    "fields": {
+      "name": "Moving Assistance",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 13,
+    "fields": {
+      "name": "Overnight Care",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 14,
+    "fields": {
+      "name": "Doing Errands",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 15,
+    "fields": {
+      "name": "PEG Feeding",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 16,
+    "fields": {
+      "name": "Sign Language",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 17,
+    "fields": {
+      "name": "Using a Ventilator",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 18,
+    "fields": {
+      "name": "Computer Assistance",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 19,
+    "fields": {
+      "name": "Day Care",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 20,
+    "fields": {
+      "name": "Attending Appointments",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 21,
+    "fields": {
+      "name": "Catheter/ Continence Management",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 22,
+    "fields": {
+      "name": "Dressing Wounds",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 23,
+    "fields": {
+      "name": "Dressing and Undressing",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 24,
+    "fields": {
+      "name": "Driving Licence",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 25,
+    "fields": {
+      "name": "Driving Licence (with Car)",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 26,
+    "fields": {
+      "name": "Eating and Drinking Assistance",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 27,
+    "fields": {
+      "name": "Evenings",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 28,
+    "fields": {
+      "name": "Gardening",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 29,
+    "fields": {
+      "name": "Live-In Care",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 30,
+    "fields": {
+      "name": "Manual Handling",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 31,
+    "fields": {
+      "name": "Moving and Handling",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 32,
+    "fields": {
+      "name": "Night Work",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 33,
+    "fields": {
+      "name": "Personal Assistance",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 34,
+    "fields": {
+      "name": "Pet Companion",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 35,
+    "fields": {
+      "name": "Physical Activities",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 36,
+    "fields": {
+      "name": "Using a hoist",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 37,
+    "fields": {
+      "name": "Pet Companion",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 38,
+    "fields": {
+      "name": "Weekends",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 39,
+    "fields": {
+      "name": "Dementia",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },

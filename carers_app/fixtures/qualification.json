@@ -1,0 +1,47 @@
+[
+  {
+    "model": "carers_app.qualification",
+    "pk": 1,
+    "fields": {
+      "name": "Nursing UK or abroad",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.qualification",
+    "pk": 2,
+    "fields": {
+      "name": "Care related NVQ",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.qualification",
+    "pk": 3,
+    "fields": {
+      "name": "In-house training",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.qualification",
+    "pk": 4,
+    "fields": {
+      "name": "E-learning",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.qualification",
+    "pk": 5,
+    "fields": {
+      "name": "No qualifications",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  }
+  ]

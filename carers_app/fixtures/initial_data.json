@@ -1,0 +1,367 @@
+[
+  {
+    "model": "carers_app.language",
+    "pk": 1,
+    "fields": {
+      "name": "English",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.language",
+    "pk": 2,
+    "fields": {
+      "name": "German",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.language",
+    "pk": 3,
+    "fields": {
+      "name": "Spanish",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.language",
+    "pk": 4,
+    "fields": {
+      "name": "French",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.language",
+    "pk": 5,
+    "fields": {
+      "name": "Hindi",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.cardtype",
+    "pk": 1,
+    "fields": {
+      "name": "Master Card",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.cardtype",
+    "pk": 2,
+    "fields": {
+      "name": "Visa Card",
+      "is_active": "True",		
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.cardtype",
+    "pk": 3,
+    "fields": {
+      "name": "American Express",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+      "name": "Service Seeker"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+      "name": "Service Provider"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 1,
+    "fields": {
+      "name": "Depression",
+      "is_active": "True", 
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 2,
+    "fields": {
+      "name": "Eating Disorder",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 3,
+    "fields": {
+      "name": "Stroke",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 4,
+    "fields": {
+      "name": "Visual Impairment",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 5,
+    "fields": {
+      "name": "Autism",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.conditionexpertise",
+    "pk": 6,
+    "fields": {
+      "name": "Diabetes",
+      "is_active": "True",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.blog_category",
+    "pk": 1,
+    "fields": {
+      "name": "ELDERLY PARENTS",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.blog_category",
+    "pk": 2,
+    "fields": {
+      "name": "HEALTH",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 1,
+    "fields": {
+      "name": "Cleaning",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 2,
+    "fields": {
+      "name": "Administration",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 3,
+    "fields": {
+      "name": "Shopping",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 4,
+    "fields": {
+      "name": "Doing Laundry",
+      "skill_type": "House Hold",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 5,
+    "fields": {
+      "name": "Dressing Undressing",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 6,
+    "fields": {
+      "name": "Toileting",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 7,
+    "fields": {
+      "name": "Medication Prompting",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 8,
+    "fields": {
+      "name": "Personal Grooming and Hygiene",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 9,
+    "fields": {
+      "name": "Wheelchair Assistance",
+      "skill_type": "Personal Care",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 10,
+    "fields": {
+      "name": "Cooking",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 11,
+    "fields": {
+      "name": "Driving License",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 12,
+    "fields": {
+      "name": "Moving Assistance",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 13,
+    "fields": {
+      "name": "Overnight Care",
+      "skill_type": "Duties",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 14,
+    "fields": {
+      "name": "Doing Errands",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 15,
+    "fields": {
+      "name": "PEG Feeding",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 16,
+    "fields": {
+      "name": "Sign Language",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.skill",
+    "pk": 17,
+    "fields": {
+      "name": "Using a Ventilator",
+      "skill_type": "Specialist Skill",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.caretype",
+    "pk": 1,
+    "fields": {
+      "name": "Hourly",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.caretype",
+    "pk": 2,
+    "fields": {
+      "name": "Over Night",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  },
+  {
+    "model": "carers_app.caretype",
+    "pk": 3,
+    "fields": {
+      "name": "Live In",
+      "added": "2017-06-02 15:11:51.844812",
+      "updated": "2017-06-02 15:11:51.844812"
+    }
+  }
+]
+
